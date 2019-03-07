@@ -1,6 +1,6 @@
-#IJC projekt 1
+# IJC projekt 1
 
-##Zadaní A
+## Zadání A
 
 a) V rozhraní "bit_array.h" definujte pro datovou strukturu typu pole bitů:
 
@@ -109,7 +109,7 @@ Poznámky:  Eratosthenovo síto (přibližná specifikace):
    Porovnejte efektivitu obou variant (makra vs. inline funkce).
    Zamyslete se, jak by se ověřila efektivita pro (neinline) funkce.
 
-##Zadaní B
+## Zadání B
 
 b) Napište modul "error.c" s rozhraním v "error.h", který definuje
    funkci void warning_msg(const char *fmt, ...) a
